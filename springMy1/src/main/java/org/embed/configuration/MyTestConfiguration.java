@@ -4,5 +4,5 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class MyTestConfiguration {
-	String str = "여기는 홍 입니다.";
+	String str = "여기는 김 입니다.";
 }
