@@ -1,3 +1,16 @@
+#공유했을때 에러가 발생할 요소 제거
+/src/test/java
+target
+.metadata
+.recommenders
+.settings
+.git
+.classpath
+.project
+.springBeans
+.gitignore
+**/log4j2.xml
+README.md
 # Compiled class file
 *.class
 
